@@ -31,3 +31,4 @@ C:\Users\doga_\RiderProjects\WebApplication7\WebApplication7\obj\Debug\net8.0\re
 C:\Users\doga_\RiderProjects\WebApplication7\WebApplication7\obj\Debug\net8.0\WebApplication7.pdb
 C:\Users\doga_\RiderProjects\WebApplication7\WebApplication7\obj\Debug\net8.0\WebApplication7.genruntimeconfig.cache
 C:\Users\doga_\RiderProjects\WebApplication7\WebApplication7\obj\Debug\net8.0\ref\WebApplication7.dll
+C:\Users\doga_\RiderProjects\WebApplication7\WebApplication7\obj\Debug\net8.0\WebApplication7.sourcelink.json
