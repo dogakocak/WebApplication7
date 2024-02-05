@@ -8,7 +8,7 @@ COPY ["WebApplication7.csproj", "/"]
 RUN dotnet restore "WebApplication7.csproj"
 COPY . .
 WORKDIR "/src/WebApplication7"
-RUN dotnet build "WebApplication7.csproj" -c Release -o /app/build
+RUN dotnet build "WebApplication7/WebApplication7.csproj" -c Release -o /app/build
 
 FROM build AS publish
 RUN dotnet publish "WebApplication7.csproj" -c Release -o /app/publish /p:UseAppHost=false
